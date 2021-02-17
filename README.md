@@ -2,5 +2,5 @@
 Repository for Group 1 for IMSE 785 Spring 2021
 
 Jordan Martin  
-David Johnson
+David Johnson  
 Jim Whitaker
